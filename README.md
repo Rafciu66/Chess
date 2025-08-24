@@ -1,7 +1,7 @@
 # ♟️ Python Chess Game
 
 🎥 **Demo Video**: [https://youtu.be/ZrVI6uh7e0Y](https://youtu.be/ZrVI6uh7e0Y)
-![UI Preview](chessshowcase.png)
+![UI Preview](chessshowcase.PNG)
 ---
 
 ## ✨ Features
